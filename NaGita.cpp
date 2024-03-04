@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Test Gita!\n";
+    std::cout << "Edit!\n";
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
